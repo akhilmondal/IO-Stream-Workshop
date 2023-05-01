@@ -1,0 +1,3 @@
+Student{studentId=1, studentName='Akhil', studentScore=80.34}
+Student{studentId=2, studentName='Pavan', studentScore=87.76}
+Student{studentId=3, studentName='Arpit', studentScore=98.78}
